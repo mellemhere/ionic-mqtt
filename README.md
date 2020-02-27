@@ -1,3 +1,4 @@
+**I added onConnect callback = )**
 # ionic-mqtt
 
 ### **UPDATES: This package is being migrated to ionic v4.
